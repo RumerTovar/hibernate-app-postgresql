@@ -1,0 +1,12 @@
+com\posgre\posgredbapp\controller\DueñoController.class
+com\posgre\posgredbapp\service\IMascotaService.class
+com\posgre\posgredbapp\repository\IDueñoRepository.class
+com\posgre\posgredbapp\service\DueñoService.class
+com\posgre\posgredbapp\repository\IMascotaRepository.class
+com\posgre\posgredbapp\model\Mascota.class
+com\posgre\posgredbapp\service\MascotaService.class
+com\posgre\posgredbapp\controller\MascotaController.class
+com\posgre\posgredbapp\model\Dueño.class
+com\posgre\posgredbapp\service\IDueñoService.class
+com\posgre\posgredbapp\PosgredbappApplication.class
+com\posgre\posgredbapp\DTO\DueñoMascotaDTO.class
